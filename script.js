@@ -16,7 +16,7 @@ const makeChange = (c) => {
 };
 
 // Do not the change the code below
-// const c = prompt("Enter c: ");
+const c = prompt("Enter c: ");
 
 
 
